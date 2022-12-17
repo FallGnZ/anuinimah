@@ -140,19 +140,6 @@ return`
  ${no++} ➳ ${prefix}emojmix2
  ${no++} ➳ ${prefix}emojimix2
 
- 𝙏𝙊𝙊𝙇𝙎 𝙈𝙀𝙉𝙐 
- ${no++} ➳ ${prefix}spamcall
- ${no++} ➳ ${prefix}translate
- ${no++} ➳ ${prefix}ssweb-pc
- ${no++} ➳ ${prefix}ssweb-hp
- ${no++} ➳ ${prefix}bitly_short
- ${no++} ➳ ${prefix}cuttly_short
- ${no++} ➳ ${prefix}tinyurl_short
- ${no++} ➳ ${prefix}base32
- ${no++} ➳ ${prefix}base64
- ${no++} ➳ ${prefix}debase32
- ${no++} ➳ ${prefix}debase64
-
  𝘽𝙐𝙂𝙑𝙄𝙋 𝙈𝙀𝙉𝙐 
  ${no++} ➳ ${prefix}sendbug 628xxx
  ${no++} ➳ ${prefix}philips 628xxx
@@ -170,32 +157,6 @@ return`
  ${no++} ➳ ${prefix}bug4 628xxx
  ${no++} ➳ ${prefix}bug5 628xxx
  
- 𝙍𝘼𝙉𝘿𝙊𝙈 𝘾𝙀𝙆 
- ${no++} ➳ ${prefix}cekjelek
- ${no++} ➳ ${prefix}cekcantik
- ${no++} ➳ ${prefix}cekganteng
- ${no++} ➳ ${prefix}ceksad
- ${no++} ➳ ${prefix}cekharam
- ${no++} ➳ ${prefix}cekhalal
- ${no++} ➳ ${prefix}cekbego
- ${no++} ➳ ${prefix}cekanjing
- ${no++} ➳ ${prefix}cekbiadab
- ${no++} ➳ ${prefix}cekramah
- ${no++} ➳ ${prefix}ceksatir
- ${no++} ➳ ${prefix}cekmanis
- ${no++} ➳ ${prefix}cekpahit
- ${no++} ➳ ${prefix}cekhitam
- ${no++} ➳ ${prefix}cekrasis
- ${no++} ➳ ${prefix}cekbaik
- ${no++} ➳ ${prefix}cekjahat
- ${no++} ➳ ${prefix}cekkaya
- ${no++} ➳ ${prefix}cekmiskin
- ${no++} ➳ ${prefix}cekpintar
- ${no++} ➳ ${prefix}cekbodoh
- ${no++} ➳ ${prefix}cekimut
- ${no++} ➳ ${prefix}cekkocak
- ${no++} ➳ ${prefix}cekkadang
-
  𝙎𝙀𝙍𝙏𝙄𝙁𝙄𝙆𝘼𝙏 𝙈𝙀𝙉𝙐 
  ${no++} ➳ ${prefix}toloserti <nama>
  ${no++} ➳ ${prefix}badgirlserti <nama>
@@ -344,7 +305,6 @@ return`
  ${no++} ➳ ${prefix}neko
  ${no++} ➳ ${prefix}wink
  ${no++} ➳ ${prefix}dance
- ${no++} ➳ ${prefix}poke
  ${no++} ➳ ${prefix}glomp
  ${no++} ➳ ${prefix}bite
  ${no++} ➳ ${prefix}nom
@@ -546,6 +506,24 @@ return`
  ${no++} ➳ ${prefix}goldplaybutton text
  ${no++} ➳ ${prefix}silverplaybutton text
  ${no++} ➳ ${prefix}freefire text
+
+ 𝙍𝘼𝙉𝘿𝙊𝙈 𝙄𝙈𝘼𝙂𝙀 
+ ${no++} ➳ ${prefix}lewd
+ ${no++} ➳ ${prefix}feed
+ ${no++} ➳ ${prefix}gasm
+ ${no++} ➳ ${prefix}holo
+ ${no++} ➳ ${prefix}kuni
+ ${no++} ➳ ${prefix}kiss
+ ${no++} ➳ ${prefix}erok
+ ${no++} ➳ ${prefix}smug
+ ${no++} ➳ ${prefix}solog
+ ${no++} ➳ ${prefix}feetg
+ ${no++} ➳ ${prefix}lewdk
+ ${no++} ➳ ${prefix}waifu
+ ${no++} ➳ ${prefix}cuddle
+ ${no++} ➳ ${prefix}erokemo
+ ${no++} ➳ ${prefix}fox_girl
+ ${no++} ➳ ${prefix}wallpaper
  `
 }
 
